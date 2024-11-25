@@ -9,7 +9,7 @@ export function Sidebar() {
   return (
     <div className="h-screen border-blue-700 justify-center  flex flex-col items-center p-3 ">
       {/* image      */}
-      <Image src="/profil.jpg" alt="profil-pic"
+      <Image src="/files/profil.jpg" alt="profil-pic"
         width={300} height={300}
         className="rounded-full" />
 

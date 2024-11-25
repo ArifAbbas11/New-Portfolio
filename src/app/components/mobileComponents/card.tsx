@@ -11,7 +11,7 @@ const MobileCard = () => {
         <div className='h-[90vh] flex flex-col items-center justify-center'>
             <div data-aos="fade-up" className="card bg-blue-100 glass w-80 p-5 flex flex-col justify-center items-center">
                 {/* image      */}
-                <Image src="/profil.jpg" alt="profil-pic"
+                <Image src="/files/profil.jpg" alt="profil-pic"
                     width={300} height={300}
                     className="rounded-full mx-auto" />
                 <div className="card-body">
