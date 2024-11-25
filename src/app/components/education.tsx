@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button"
+
 import {
   Card,
   CardContent,
@@ -10,7 +10,7 @@ import React from 'react'
 
 function Education() {
   // My Education Here
-  let education = [
+  const education = [
     {
     uniName:"Fedral Urdu University of Arts, Science and Technalogy",
     date:"5th Semister",

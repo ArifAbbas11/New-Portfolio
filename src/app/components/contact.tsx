@@ -4,7 +4,7 @@ import {
     CardHeader,
     CardTitle,
   } from "@/components/ui/card"
-  import { FaCheck } from "react-icons/fa";
+
 import React from 'react'
 import { Button } from "@/components/ui/button";
 

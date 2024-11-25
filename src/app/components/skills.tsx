@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button"
+
 import {
   Card,
   CardContent,
@@ -11,28 +11,28 @@ import React from 'react'
 
 function Skills() {
   // My Education Here
-  let skill = [
-    {
-      uniName: "Fedral Urdu University of Arts, Science and Technalogy",
-      date: "5th Semister",
-      field: "Bs Computer Science",
-      details: "In process",
-    },
-    {
-      uniName: "DEGREE COLLEGE GILGIT",
-      date: "2015-2017",
-      field: "Computer Science (ICS)",
-      details: "Pass with C grade",
-    },
-    {
-      uniName: "GUIDER SCHOOL & COLLEG",
-      date: "2012-2014",
-      field: "Science",
-      details: "Pass with C grade"
-    },
+  // const skill = [
+  //   {
+  //     uniName: "Fedral Urdu University of Arts, Science and Technalogy",
+  //     date: "5th Semister",
+  //     field: "Bs Computer Science",
+  //     details: "In process",
+  //   },
+  //   {
+  //     uniName: "DEGREE COLLEGE GILGIT",
+  //     date: "2015-2017",
+  //     field: "Computer Science (ICS)",
+  //     details: "Pass with C grade",
+  //   },
+  //   {
+  //     uniName: "GUIDER SCHOOL & COLLEG",
+  //     date: "2012-2014",
+  //     field: "Science",
+  //     details: "Pass with C grade"
+  //   },
 
 
-  ]
+  // ]
   return (
     <Card data-aos="zoom-in" className="h-[85vh] overflow-y-auto">
       <CardHeader>

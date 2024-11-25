@@ -1,7 +1,7 @@
 import React from 'react'
 
 function MobileExperience() {
-  let experience = [
+  const experience = [
     {
     companyName:"Cloud innoveter Solution",
     dateSrart:"Aug-2024",

@@ -3,7 +3,7 @@ import Link from 'next/link'
 import React from 'react'
 
 function MobileProject() {
-  let projects = [
+  const projects = [
     {
       proName: "CV Builder",
       link: "https://cv-builder-lilac-omega.vercel.app/",

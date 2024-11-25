@@ -1,7 +1,7 @@
 import React from 'react'
 
 function MobileEducation() {
-  let education = [
+  const education = [
     {
     uniName:"Fedral Urdu University of Arts, Science and Technalogy",
     date:"5th Semister",

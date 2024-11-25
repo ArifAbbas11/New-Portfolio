@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button"
+
 import {
   Card,
   CardContent,
@@ -12,7 +12,7 @@ import React from 'react'
 
 function Projects() {
   // My Projects Here
-  let projects = [
+  const projects = [
     {
       proName: "CV Builder",
       link: "https://cv-builder-lilac-omega.vercel.app/",
